@@ -1,0 +1,11 @@
+C:\Users\Usuario\AppComboBox\AppComboBox\bin\Debug\AppComboBox.exe.config
+C:\Users\Usuario\AppComboBox\AppComboBox\bin\Debug\AppComboBox.exe
+C:\Users\Usuario\AppComboBox\AppComboBox\bin\Debug\AppComboBox.pdb
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.Form1.resources
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.Properties.Resources.resources
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.csproj.GenerateResource.cache
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.exe
+C:\Users\Usuario\AppComboBox\AppComboBox\obj\Debug\AppComboBox.pdb
